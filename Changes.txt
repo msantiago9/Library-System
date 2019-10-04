@@ -1,0 +1,34 @@
+Revision E:
+- Finalization of program.
+- Commenting on function pieces
+- Table of Contents
+- Presentation-ready text files
+
+Revision D:
+- Convert any local variables into global for simplified code (if possible)
+- Changing the logic of some functions
+-- In Particular, change the assignment of structures to their own function.
+- Clarifying the purpose of some variables, renaming variables so they make more sense
+-- (int i,j,k are currently NOT counting variables in main)
+- Resize the limit of MyLibrary.txt and UserInfo.txt from 50 books and 50 users to 1000 books, 30 users
+
+Revision C:
+- Modify the main function so that it contains as minimal lines as possible
+-- Move any interactions with the system to its own function
+-- Call interactions using their own functions (E.G. to add a book, make function addBook())
+- Implement the rest of the features of Librarian not yet implemented
+
+Revision B:
+- Redo entire code, this time base it on structures Book and User instead of generic Character arrays
+
+Revision A:
+- Plan out the logic of the program
+-- Main flow of the program:
+--- Read text files
+--- Store contents into local arrays
+--- Log-in
+---- Compare the login data with username and password stored in local arrays
+--- Interact with the system upon logging in.
+---- Determine if the user is a borrower or librarian
+--- After interaction is complete, write back to files
+---- Read from the arrays and store their content back into the text files

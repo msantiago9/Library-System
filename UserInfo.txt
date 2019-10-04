@@ -1,0 +1,16 @@
+1,Marjon,Santiago,msantiago9,samplepassword,B
+2,Rachel,Abraham,rabraham4,mypassword,L
+3,Oghenero,Ekwevugbe,oekwevugbe1,password1,L
+4,Test,Borrower,b1,b2,B
+5,Test,Librarian,l1,l2,L
+6,JK,Rowling,jrowling9,hogwarts,L
+7,Jar Jar,Binks,sithbinks,Naboo,B
+8,Gandalf,the Grey,wizard1,magic1,B
+9,Jay,Gatsby,jamesgatz,oldsport,L
+10,Ronald,McDonald,2for4breakfast,dollarmenu,B
+11,Doge,Kabosu,muchwow,suchpassword,L
+12,Steven,Hawking,CHCBE,radiation,L
+13,Mark,Becker,mb1,gsu,B
+14,Donald,Trump,MAGA,borders,B
+15,Bernie,Sanders,bsanders6,ubi,B
+16,Bill,Gates,microsoft,windows,B

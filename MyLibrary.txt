@@ -1,0 +1,88 @@
+1,The Hunger Games,Suzanne Collins,msantiago9,2019-04-27,2019-05-27
+2,The Hunger Games,Suzanne Collins,oekwevugbe1,2019-04-29,2019-05-29
+3,The Hunger Games,Suzanne Collins,library,null,null
+4,Catching Fire,Suzanne Collins,msantiago9,2019-04-27,2019-05-27
+5,Mockingjay,Suzanne Collins,library,null,null
+6,Harry Potter and the Sorcer's Stone,JK Rowling,jrowling9,2019-04-27,2019-05-27
+7,Harry Potter and the Sorcer's Stone,JK Rowling,rabraham4,2019-02-23,2019-03-25
+8,Harry Potter and the Chamber of Secrets,JK Rowling,jrowling9,2019-04-27,2019-05-27
+9,Harry Potter and the Chamber of Secrets,JK Rowling,rabraham4,2019-02-27,2019-03-29
+10,Harry Potter and the Prisoner of Azkaban,JK Rowling,jrowling9,2019-04-27,2019-05-27
+11,Harry Potter and the Prisoner of Azkaban,JK Rowling,rabraham4,2019-03-01,2019-03-31
+12,Harry Potter and the Goblet of Fire,JK Rowling,bsanders6,2019-03-20,2019-04-19
+13,Harry Potter and the Goblet of Fire,JK Rowling,library,null,null
+14,Harry Potter and the Order of the Phoenix,JK Rowling,bsanders6,2019-03-21,2019-04-20
+15,Harry Potter and the Order of the Phoenix,JK Rowling,library,null,null
+16,Harry Potter and the Half-Blood Prince,JK Rowling,library,null,null
+17,Harry Potter and the Half-Blood Prince,JK Rowling,library,null,null
+18,Harry Potter and the Deathly Hallows,JK Rowling,library,null,null
+19,Hamlet,William Shakespeare,sithbinks,2019-01-05,2019-02-04
+20,Hamlet,William Shakespeare,library,null,null
+21,Lolita,Vladmir Nabokov,library,null,null
+22,The Divine Comedy,Dante Alighieri,library,null,null
+23,Catch-22,Joseph Heller,library,null,null
+24,Lord of the Flies,William Golding,library,null,null
+25,Lord of the Flies,William Golding,library,null,null
+26,1984,George Orwell,sithbinks,2019-03-29,2019-04-28
+27,1984,George Orwell,library,null,null
+28,Invisible Man,Ralph Ellison ,library,null,null
+29,Little Women,Louisa M Alcott,library,null,null
+30,The Hitchhiker's Guide to the Galaxy,Douglas Adams,library,null,null
+31,The Hitchhiker's Guide to the Galaxy,Douglas Adams,library,null,null
+32,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,library,null,null
+33,As I Lay Dying,William Faulkner,library,null,null
+34,Pale Fire,Vladimir Nabokov,library,null,null
+35,A Tale of Two Cities,Charles Dickens,library,null,null
+36,The Giver,Lois Lowry,library,null,null
+37,The Giver,Louis Lowery,library,null,null
+38,The Book Thief, Markus Zusak,library,null,null
+39,The Hobbit,JRR Tolkien,wizard1,2019-04-22,2019-05-22
+40,The Hobbit,JRR Tolkien,library,null,null
+41,The Shining,Stephen King,wizard1,2019-04-26,2019-05-26
+42,The Color Purple,Alice Walker,library,null,null
+43,The Handmaid's Tale,Margaret Atwood,library,null,null
+44,The 7 Habits of Highly Effective People,Stephen R. Covey,library,null,null
+45,To Kill a Mockingbird,Harper Lee,microsoft,2019-04-28,2019-05-28
+46,The Great Gatsby,F Scott Fitzgerald,jamesgatz,1925-01-01,1925-01-31
+47,Their Eyes Were Watching God,Zora Neale Hurston,library,null,null
+48,The Catcher in the Rye,JD Salinger,library,null,null
+49,The Five Love Languages,Gary Chapman,library,null,null
+50,The Kite Runner,Khaled Hosseini,library,null,null
+51,Night,Elie Wiesel,oekwevugbe1,2019-02-15,2019-03-17
+52,Night,Elie Wiesel,library,null,null
+53,Night,Elie Wiesel,library,null,null
+54,Lord of the Flies,William Golding,library,null,null
+55,Better Homes and Gardens Cookbook,No Author,library,null,null
+56,Fahrenheit 451,Ray Bradbury,microsoft,2019-04-27,2019-05-27
+57,Fahrenheit 451,Ray Bradbury,library,null,null
+58,The Things They Carried,Tim O'Brien,library,null,null
+59,Brave New World,Aldous Huxley,library,null,null
+60,Tuesdays with Morrie,Mitch Albom,library,null,null
+61,Mastering the Art of French Cooking,Julia Child,library,null,null
+62,The Da Vinci Code,Dan Brown,library,null,null
+63,The Curious Incident of the Dog in the Night-Time,Mark Haddon,library,null,null
+64,One Hundred Years of Solitude,Gabriel Garcia Marquez,library,null,null
+65,How to Win Friends and Influence People,Dale Carnegie,jamesgatz,1925-01-20,1925-02-19
+66,How to Win Friends and Influence People,Dale Carnegie,library,null,null
+67,A People's History of the United States,Howard Zinn,library,null,null
+68,Who Moved my Cheese?,Spencer Johnson,library,null,null
+69,Think and Grow Rich,Napoleon Hill,library,null,null
+70,Life of Pi,Yann Martel,library,null,null
+71,Atlas Shrugged,Ayn Rand,library,null,null
+72,The Secret,Rhonda Byrne,library,null,null
+73,Rich Dad Poor Dad,Robert Kiyosaki,jamesgatz,1925-01-30,19251-03-01
+74,The Girl with the Dragon Tattoo,Stieg Larsson,library,null,null
+75,Into the Wild,Jon Krakauer,library,null,null
+76,Things Fall Apart,Chinua Achebe,library,null,null
+77,All Quiet on the Western Front,Erich Maria Remarque,library,null,null
+78,Beloved,Toni Morrison,library,null,null
+79,The Grapes of Wrath,John Steinbeck,library,null,null
+80,Guns Germs and Steel - The Fates of Human Societies,Jared Diamond,library,null,null
+81,The Outsiders,SE Hinton,library,null,null
+82,East of Eden,John Steinbeck,library,null,null
+83,Catch-22,Joseph Heller,library,null,null
+84,The Power of Now - A Guide to Spiritual Enlightenment,Eckhart Tolle,library,null,null
+85,Pride and Prejudice,Jane Austen,library,null,null
+86,The Pillars of the Earth,Ken Follett,library,null,null
+87,Theory of Everything,Stephen Hawking,microsoft,2019-04-27,2019-05-27
+88,Structure and Interpretation of Computer Programs,Gerald Jay Sussman,library,null,null
